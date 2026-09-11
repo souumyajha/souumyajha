@@ -1,16 +1,19 @@
+<img align="right" src="https://octodex.github.com/images/Robotocat.png" width="260">
 
-<div align="center">
+<div>
 
-# 👋 Hi, I'm Soumya Jha
+<h1>👋 Hi, I'm Soumya Jha</h1>
 
 ### 🎓 CSE (AI) Student · 💻 Software Development · 🤖 AI Engineering
 
 Building software to understand how things work — from **client-server systems and databases** to **AI-powered applications**.
 
-[![GitHub](https://img.shields.io/badge/GitHub-souumyajha-181717?style=flat-square\&logo=github)](https://github.com/souumyajha)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Soumya%20Jha-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/soumya-jha-tech/)
+[![GitHub](https://img.shields.io/badge/GitHub-souumyajha-181717?style=flat-square&logo=github)](https://github.com/souumyajha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Soumya%20Jha-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumya-jha-tech/)
 
 </div>
+
+<br clear="right">
 
 ---
 
