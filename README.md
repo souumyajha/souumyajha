@@ -13,7 +13,6 @@ I learn by building — from understanding how servers and databases work intern
 * 🧠 Strengthening **Data Structures & Algorithms** and problem solving
 * ☕ Building backend and systems projects with **Java**
 * 🗄️ Improving **SQL, databases, and backend fundamentals**
-* 🤖 Exploring **AI/ML, Computer Vision, and AI engineering**
 * 🔧 Learning how real-world software systems work beyond the surface level
 
 ---
@@ -93,7 +92,6 @@ The application focuses on making model predictions more understandable through 
 
 **Exploring:**
 
-* Computer Vision
 * Vision Transformers
 * Medical image analysis
 * Explainable AI
@@ -135,7 +133,6 @@ rather than memorizing solutions.
 * **Java:** OOP, Collections, Exceptions, Multithreading, Networking
 * **Backend:** Client-server architecture, APIs, databases, system fundamentals
 * **DSA:** Problem solving, data structures, algorithms and complexity analysis
-* **AI/ML:** Machine Learning, Deep Learning, Computer Vision, Transformers
 * **Databases:** SQL, relational databases and data persistence
 * **Cloud:** Cloud computing fundamentals and scalable architectures
 * **AI Engineering:** Practical AI applications and AI agents
