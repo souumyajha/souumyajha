@@ -32,6 +32,7 @@ I learn by building — from understanding how servers and databases work intern
 | 🧠  | **Data Structures & Algorithms** — problem solving & coding patterns |
 | ☕   | **Java** — backend, networking & systems                             |
 | 🗄️ | **SQL & Databases** — queries, storage & data management             |
+| 🤖 | **AI Engineering** — computer vision, transformers & practical AI |
 
 ---
 
@@ -49,13 +50,9 @@ I learn by building — from understanding how servers and databases work intern
 
 `Java` `REST APIs` `TCP Networking` `Maven`
 
-**AI / ML**
-
-`Scikit-learn` `XGBoost` `Computer Vision` `Transformers`
-
 **Databases & Tools**
 
-`MySQL` `MongoDB` `Git` `GitHub` `IntelliJ IDEA` `VS Code` `Figma`
+`MySQL` `Git` `GitHub` `IntelliJ IDEA` `VS Code` `Figma`
 
 ---
 
@@ -120,13 +117,7 @@ Focused on **user flows, information architecture, interface design and the over
 
 ## 🧠 Problem Solving
 
-Currently strengthening my foundations in **Data Structures & Algorithms, problem solving, and coding patterns** for software engineering interviews.
-
-My focus is on understanding:
-
-**Problem → Approach → Data Structure → Complexity → Implementation**
-
-I focus on understanding **why a solution works**, rather than memorizing solutions.
+Currently strengthening my **DSA and problem-solving skills** for software engineering interviews, with a focus on understanding approaches, data structures and time complexity.
 
 ---
 
@@ -135,15 +126,6 @@ I focus on understanding **why a solution works**, rather than memorizing soluti
 ### GirlScript Summer of Code 2026
 
 Contributed to an open-source project and gained experience working with a collaborative development workflow, GitHub issues and pull requests.
-
----
-
-## 📚 Currently Learning
-
-* ☕ **Java** — OOP, Collections, Exceptions, Multithreading & Networking
-* 🌐 **Backend** — Client-server architecture, APIs & system fundamentals
-* 🧠 **DSA** — Data structures, algorithms & complexity analysis
-* 🗄️ **Databases** — SQL, relational databases & persistence
 
 ---
 
